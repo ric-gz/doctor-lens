@@ -88,3 +88,8 @@ npm run diagnose --body-part-id right-hand-2
 ## Disclaimer
 
 *This project and any AI-generated outputs are for educational and informational purposes only and must be reviewed and verified by a licensed healthcare professional before making any clinical or treatment decisions.*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

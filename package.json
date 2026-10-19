@@ -2,6 +2,7 @@
   "name": "doctor-lens",
   "version": "1.0.0",
   "description": "Medical imaging (MRI & X-Ray) transformation and AI-assisted diagnostic report generator using Google Gemini",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "diagnose": "tsx src/index.ts",
