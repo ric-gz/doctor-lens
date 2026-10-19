@@ -2,6 +2,8 @@
 
 Medical imaging (MRI & X-Ray) processing and AI-assisted diagnostic report generator powered by Google Gemini.
 
+> **Note**: Doctor Lens is a vibe coded project.
+
 ## Features
 
 - **DICOM Processing**: Scans and parses medical imaging files, converting them into optimized visual formats (PNG montages and panels) using `sharp` and `dicom-parser`.
@@ -82,3 +84,7 @@ npm run diagnose --body-part-id right-hand-2
   ```bash
   npm run typecheck
   ```
+
+## Disclaimer
+
+*This project and any AI-generated outputs are for educational and informational purposes only and must be reviewed and verified by a licensed healthcare professional before making any clinical or treatment decisions.*
