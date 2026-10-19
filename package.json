@@ -1,0 +1,21 @@
+{
+  "name": "doctor-lens",
+  "version": "1.0.0",
+  "description": "Medical imaging (MRI & X-Ray) transformation and AI-assisted diagnostic report generator using Google Gemini",
+  "type": "module",
+  "scripts": {
+    "diagnose": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "dicom-parser": "^1.8.21",
+    "dotenv": "^16.4.7",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
